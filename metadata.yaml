@@ -1,0 +1,41 @@
+_repo: Depaysements_74143
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traz, Robert de
+    aliases:
+    - De Traz, Robert
+    - Traz, R. de (Robert)
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '57364'
+    url: http://www.gutenberg.org/2009/agents/57364
+    wikipedia: https://fr.wikipedia.org/wiki/Robert_de_Traz
+description: ''
+gutenberg_issued: '2024-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74143'
+  lccn: '24007616'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3399092t
+pgterms:marc905: 20231202091954traz
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bBernard Grasset, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: '"Les cahiers verts", 29'
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Reconstruction (1914-1939) -- Europe'
+- !lcsh 'National characteristics, Swedish'
+- !lcc 'D'
+- GITenberg
+tableOfContents: Quinze jours à Vienne -- En Hongrie -- Cinq jours à Berlin -- Suède
+  ou le pourquoi d'une mélancolie.
+title: Dépaysements
+url: http://www.gutenberg.org/ebooks/74143
